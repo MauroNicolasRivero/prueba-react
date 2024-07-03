@@ -23,3 +23,13 @@ function App() {
 }
 
 export default App;
+
+/*
+import React from 'react';
+
+const MyComponent = ({ label }) => {
+  return <button>{label}</button>;
+};
+
+export default MyComponent;
+*/
